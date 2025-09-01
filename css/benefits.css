@@ -1,0 +1,23 @@
+.header{
+    margin-bottom: 50px;
+    background-color: white;
+    color: rgb(179, 29, 29);
+}
+.header img{
+    margin-right: 350px;
+    height: 50px;
+}
+span a{
+    margin-right: 50px;
+}
+h1{
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+.main{
+    margin-left: 270px;
+}
+.body{
+    background-color: black;
+}

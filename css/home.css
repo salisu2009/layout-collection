@@ -1,0 +1,60 @@
+*{
+    background-color:white;
+
+}
+.dog{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+    font-size: 50px;
+}
+.cow{
+     font-size:20px;
+     
+}
+.main {
+    margin: 0,150px 0 150px;
+}
+.cat {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-flex;
+}
+.body{
+    width: 500px;
+    height: 500px;
+    margin-left: 170px;
+}
+
+.btn{
+    margin-right: 500px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    width:70px;
+    padding: 30px;
+    text-align: left;
+    font-size: 15px;
+}
+.footer{
+    font-size: large;
+    font-style: italic;
+    text-align: center;
+    font-weight: bolder;
+    border: 10px;
+    background-color: red;
+    color: white;
+    padding: 20px;
+
+}
+
+
+.header{
+    margin-bottom: 50px;
+}
+.header img{
+    margin-right: 350px;
+    height: 50px;
+}
+span a{
+    margin-right: 50px;
+}

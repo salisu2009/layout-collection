@@ -1,0 +1,38 @@
+*{
+    
+}
+.header{
+    margin-bottom: 50px;
+    background-color: white;
+    color: rgb(179, 29, 29);
+}
+.header img{
+    margin-right: 350px;
+    height: 50px;
+}
+span a{
+    margin-right: 50px;
+}
+h1{
+    text-align: center;
+    padding: 100px;
+}
+.main{
+    width: 150px;
+
+}
+h2{
+    font-weight: bolder;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+p{
+    margin-left: 30px;
+    font-size: 30px;
+}
+.body{
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: red;
+}
